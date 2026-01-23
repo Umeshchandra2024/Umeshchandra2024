@@ -59,5 +59,6 @@
 
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/umesh-chandra-21173)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-black?style=for-the-badge&logo=x)](https://twitter.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/umesh-chandra-21173b270/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-black?style=for-the-badge&logo=x)](https://x.com/Umesh1145)
+
