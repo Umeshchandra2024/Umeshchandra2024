@@ -1,12 +1,14 @@
-# Hi there, I'm Umesh Chandra 👋
+# Hi there, I'm **Umesh Chandra** 👋
 
 ## 🚀 About Me
 💻 Aspiring **Blockchain Security Researcher** & **Smart Contract Engineer**  
-🎓 Computer Science Undergraduate at RGUKT  
-🌱 Currently learning **Solana & Rust**, with a strong focus on **smart contracts and blockchain security**  
-🛠️ Building and auditing decentralized applications, along with scalable web & backend systems  
-🎯 Goal: Become a **top smart contract hacker by 2026**  
-⚡ Fun fact: I enjoy participating in contests and discovering real-world security issues 🚀
+🎓 Computer Science Undergraduate at **RGUKT**
+
+🌱 Currently learning **Solana & Rust**, focused on **smart contracts and blockchain security**  
+🛠️ Hands-on **Web2 experience** with **Node.js, Express**, REST APIs, MongoDB, and frontend basics including **React.js**, HTML, CSS, and Bootstrap.
+
+🎯 **Goal:** Become a **top smart contract hacker by 2026**  
+⚡ **Fun fact:** I enjoy CTFs and finding real-world security vulnerabilities 🚀
 
 
 ---
@@ -28,6 +30,9 @@
   <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" width="48" height="48"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" width="48" height="48"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" width="48" height="48"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" width="48" height="48"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" width="48" height="48"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" width="48" height="48"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/foundry.png" width="48" height="48"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/metamask.png" width="48" height="48"/>
